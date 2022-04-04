@@ -4,9 +4,9 @@ main()
 {
 
 int a=5;
-int b=10;
+int b=15;
 int c=a+b;
 
-printf("The value of addition is ", &c);
+printf("The new value of addition is ", &c);
 getch();
 }
